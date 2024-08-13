@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.poly</groupId>
   <artifactId>ntkcrs</artifactId>
-  <version>1.5</version>
+  <version>1.4</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -42,7 +42,7 @@
     <dependency>
       <groupId>com.github.jiuzehk</groupId>
       <artifactId>ntkaln</artifactId>
-      <version>1.3</version>
+      <version>1.2</version>
     </dependency>
     <dependency>
       <groupId>androidx.appcompat</groupId>
