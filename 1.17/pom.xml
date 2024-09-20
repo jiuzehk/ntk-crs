@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.poly</groupId>
   <artifactId>ntkcrs</artifactId>
-  <version>1.18</version>
+  <version>1.17</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.github.jiuzehk</groupId>
       <artifactId>ntkifs</artifactId>
-      <version>1.7</version>
+      <version>1.6</version>
     </dependency>
     <dependency>
       <groupId>com.github.jiuzehk</groupId>
