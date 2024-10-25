@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.poly</groupId>
   <artifactId>ntkcrs</artifactId>
-  <version>1.31</version>
+  <version>1.30</version>
   <packaging>aar</packaging>
   <build>
     <plugins>
